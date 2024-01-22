@@ -1,5 +1,6 @@
 # Naive Bayes Implementation from Scratch on Recognising Yoga Poses
-Seth Ng & Wong Li Sean
+- Li Sean Wong
+- Seth Ng
 
 ## Summary
 This project serves to better understand how a Naive Bayes model works by deconstructing the processes, analysing how they work, and piecing them together to form the whole model. This project uses the Yoga Pose Classification dataset from https://www.amarchenkova.com/2018/12/04/data-set-convolutional-neural-network-yoga-pose/ where each instance has 23 variables, of which each representing a different body part, where they collectively represents a yoga pose. The training and test sets can also be found in the 'data' folder.
